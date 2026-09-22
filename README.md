@@ -72,14 +72,3 @@ Then open the `http://localhost:5173/` link that Vite prints.
 ## Tech stack
 - React 18
 - Vite
-
----
-
-### Note on the video clips
-The `.mov` files link to the raw video. GitHub does not play `.mov` files inline from a markdown link — to embed a playable video, either drag the `.mov` into the README using GitHub's web editor (which generates an embedded player), or convert the clips to `.gif`. If you have `ffmpeg` installed, you can convert one with:
-
-```bash
-ffmpeg -i screenshots/step2.mov -vf "fps=12,scale=800:-1:flags=lanczos" screenshots/step2.gif
-```
-
-Then swap the link for `![Step 2](./screenshots/step2.gif)` to show it inline.

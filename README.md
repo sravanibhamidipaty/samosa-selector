@@ -33,7 +33,9 @@ Each step below includes a caption describing what the demo shows, since the vid
 
 ### Step 2 — Clicking to earn (the counter)
 
-▶️ [Watch step2.mov](./screenshots/step2.mov)
+▶️ https://github.com/user-attachments/assets/f1931feb-62e6-42e7-a10b-3d057d5b4e1f
+
+
 
 > Clicking the samosa several times. Each click adds one samosa, so the count rises by 1 every time.
 
@@ -51,7 +53,11 @@ Each step below includes a caption describing what the demo shows, since the vid
 
 ### Step 6 — Pulse effect
 
-▶️ [Watch step6.mov](./screenshots/step6.mov)
+▶️ 
+
+https://github.com/user-attachments/assets/01322bff-dde6-4b2c-bb92-8f378b845a6b
+
+
 
 > Hovering over the samosa makes it grow, and clicking (holding down) makes it shrink — a pulse effect done entirely in CSS.
 

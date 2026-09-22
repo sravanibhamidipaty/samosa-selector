@@ -1,0 +1,42 @@
+.samosa {
+  height: 15em;
+  padding: 1.5em;
+  margin: 0 auto;
+  text-align: center;
+}
+body {
+  background-color: #242424;
+  color: white;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 1em;
+  margin-top: 2em;
+}
+
+.upgrade {
+  border: 1px solid #888;
+  border-radius: 8px;
+  padding: 1em;
+  text-align: center;
+}
+
+button {
+  margin-top: 0.5em;
+  padding: 0.5em 1em;
+  cursor: pointer;
+}
+
+.samosa {
+  transition: transform 0.1s;
+}
+
+.samosa:hover {
+  transform: scale(1.1);
+}
+
+.samosa:active {
+  transform: scale(0.95);
+}

@@ -33,9 +33,7 @@ Each step below includes a caption describing what the demo shows, since the vid
 
 ### Step 2 — Clicking to earn (the counter)
 
-▶️ https://github.com/user-attachments/assets/f1931feb-62e6-42e7-a10b-3d057d5b4e1f
-
-
+https://github.com/user-attachments/assets/f1931feb-62e6-42e7-a10b-3d057d5b4e1f
 
 > Clicking the samosa several times. Each click adds one samosa, so the count rises by 1 every time.
 
@@ -47,17 +45,13 @@ Each step below includes a caption describing what the demo shows, since the vid
 
 ### Steps 4 & 5 — Buying an upgrade (multiplier + cost deduction)
 
-▶️ [Watch step4and5.mov](./screenshots/step4and5.mov)
+https://github.com/user-attachments/assets/ddf21b1d-7a60-45d6-91c6-4dfe2a379b59
 
 > I click the samosa until I have at least 10, then buy Double Stuffed. Notice two things: the count drops by 10 (the upgrade's cost is deducted), and from now on every click is worth 2 instead of 1, so the count climbs faster.
 
 ### Step 6 — Pulse effect
 
-▶️ 
-
 https://github.com/user-attachments/assets/01322bff-dde6-4b2c-bb92-8f378b845a6b
-
-
 
 > Hovering over the samosa makes it grow, and clicking (holding down) makes it shrink — a pulse effect done entirely in CSS.
 
